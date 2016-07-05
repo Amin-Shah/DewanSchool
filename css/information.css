@@ -6,7 +6,7 @@ body{
     background-color: white;
     width: 80%;
     margin: -0.4em 7em 0em 7em;
-    height: 1180px;
+    height: 1040px;
 }
 #left{
     float: left;
@@ -86,6 +86,10 @@ li>a:hover{
     display: block;
     margin: 1em 0em 0em -1em;
 }
+.image_3{
+    width: 16px;
+    padding-right: 0.4em;
+}
 #right_1{
     float: right;
     width: 66.2%;
@@ -101,7 +105,7 @@ li>a:hover{
     color: #005a8c;
 }
 #div_2{
-    margin: 55em 1em 0em 1em;
+    margin: 46em 1em 0em 1em;
     background-color: #eae8e8;
     height: 68px;
     border: 1px solid rgb(128,128,128);

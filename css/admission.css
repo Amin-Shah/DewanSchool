@@ -6,7 +6,7 @@ body{
     background-color: white;
     width: 80%;
     margin: -0.4em 7em 0em 7em;
-    height: 1700px;
+    height: 1060px;
 }
 #left{
     float: left;
@@ -63,13 +63,6 @@ li>a:hover{
     text-decoration: underline;
     color: white;
 }
-#left_1{
-    float: left;
-    width: 47%;
-    padding: 1em 0em 0em 1em;
-    text-align: justify;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
 .anchor{
     text-decoration: none;
     color: #00abe5;
@@ -78,33 +71,17 @@ li>a:hover{
     text-decoration: underline;
     color: #cc6600;
 }
-.span_2{
-    font-size: 20px;
-    font-weight: bold;
-    font-family: sans-serif;
-}
-#right_1{
-    float: right;
-    width: 48%;
-    padding: 1.8em 0em 0em 0em;
-    color: #b20000;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-#image_1{
-    width: 90px;
-    margin-top: 0.2em;
-}
 #left_2{
     float: left;
-    width: 30%;
-    margin: 14.5em 0em 0em -29.6em;
+    width: 34%;
+    margin: 2.5em 0em 0em 1em;
 }
 #span_3{
     background-color: rgb(192,192,192);
     font-size: 22px;
     text-align: center;
     font-family: sans-serif;
-    padding: 0px 70px 0px 70px;
+    padding: 0px 107px 0px 107px;
     border: 1px solid rgb(128,128,128);
 }
 #form{
@@ -112,7 +89,8 @@ li>a:hover{
     margin-top: -0.2em;
     padding: 10px 0px 20px 10px;
     background-color: #eae8e8;
-    width: 237px;
+    width: 310px;
+    margin-bottom: 2em;
 }
 .label>input{
     margin: 0.9em 0em 0.9em 0em;
@@ -128,9 +106,50 @@ li>a:hover{
 #button{
     margin-top: 0.8em;
 }
+
+#span_4{
+    background-color: rgb(192,192,192);
+    font-size: 22px;
+    text-align: center;
+    font-family: sans-serif;
+    padding: 0px 84px 0px 84px;
+    border: 1px solid rgb(128,128,128);
+}
+#form_1{
+    border: 1px solid rgb(128,128,128);
+    margin-top: -0.2em;
+    padding: 10px 0px 20px 10px;
+    background-color: #eae8e8;
+    width: 310px;
+}
+.label_2>input{
+    margin: 0.9em 0em 0.9em 4.4em;
+    width: 140px;
+}
+.input_1{
+    margin-left: 0em;
+}
+.label_3>input{
+    margin: 0em 1em 0.9em 6.4em;
+    width: 140px;
+}
+.label_4>input{
+    margin: 0.9em 0em 0.9em 4.7em;
+    width: 140px;
+}
+.input_1{
+    margin-left: 0em;
+}
+.label_5>input{
+    margin: 0em 0em 0.9em 0.3em;
+    width: 140px;
+}
+#button_1{
+    margin-top: 0.8em;
+}
 #right_2{
     float: right;
-    width: 66.2%;
+    width: 61%;
     text-align: justify;
     padding-right: 1.2em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -139,16 +158,10 @@ li>a:hover{
     font-size: 23px;
     font-family: sans-serif;
     font-weight: bold;
-    margin-top: 1.2em;
-}
-#paragraph_1{
-    font-size: 23px;
-    font-family: sans-serif;
-    font-weight: bold;
-    color: blue;
+    margin-top: 2em;
 }
 #div_2{
-    margin: 87.5em 1em 0em 1em;
+    margin: 47.5em 1em 0em 1em;
     background-color: #eae8e8;
     height: 68px;
     border: 1px solid rgb(128,128,128);
@@ -163,4 +176,10 @@ li>a:hover{
 #right_3{
     float: right;
     margin: 1.5em 1em 0em 0em;
+}
+.unlist_1{
+    list-style-type: none;
+}
+.list_1{
+    display: block;
 }
